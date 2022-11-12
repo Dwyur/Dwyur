@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Dwyur!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java and Python developer</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwyur&theme=cobalt&show_icons=true)
 <!---
 Dwyur/Dwyur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
