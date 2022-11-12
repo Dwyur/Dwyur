@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bLVTnQvgggksbDXs7S/giphy.gif" width="100"/>
+  <img src="https://img.freepik.com/premium-vector/programmer-engineering-development-coding-web-development-website-design-developer-vector_199064-126.jpg?w=826" width="100"/>
 </div>
 <!---
 Dwyur/Dwyur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
